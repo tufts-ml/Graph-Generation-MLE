@@ -1,0 +1,7 @@
+python==3.8
+numpy
+pandas
+torch==1.9.1
+dgl==0.7.2
+
+
